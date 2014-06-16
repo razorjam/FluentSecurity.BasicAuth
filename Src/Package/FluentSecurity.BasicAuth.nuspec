@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>FluentSecurity.BasicAuth</id>
+    <version>1.0.0</version>
+    <authors>Jamie Hinton</authors>
+    <owners>jamie</owners>
+    <licenseUrl>https://github.com/jamiehinton/FluentSecurity.BasicAuth</licenseUrl>
+    <projectUrl>https://github.com/jamiehinton/FluentSecurity.BasicAuth</projectUrl>
+    <iconUrl>http://razorjam.co.uk/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Basic Authentication implementation for fluent security. No tests in place as I just wanted to throw this up to get things working. See readme.md for examples of how to use.</description>
+    <releaseNotes>No changes - first publish.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>fluent security, basic auth</tags>
+  </metadata>
+</package>
